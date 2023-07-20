@@ -1,0 +1,49 @@
+AI GENERATED, COULD BE NONSENSE
+Sure, here's a list of basic coding problems suitable for a beginner learning Dart. These tasks will help you familiarize yourself with the syntax and some basic constructs of the Dart programming language.
+
+1. **Hello, World!**
+   Write a program that prints "Hello, World!" to the console.
+
+2. **Basic Data Types**
+   Write a program that declares and prints different data types (e.g., String, int, double, bool) in Dart.
+
+3. **Control Flow**
+   Write a program that takes an integer as input and prints whether it's even or odd.
+
+4. **Lists and Looping**
+   Write a program that creates a list of integers and then uses a loop to print out each value.
+
+5. **Function to Sum Numbers**
+   Write a function that takes two integers as input and returns their sum.
+
+6. **String Manipulation**
+   Write a program that reverses and prints a given string.
+
+7. **Recursion**
+   Write a recursive function that computes the factorial of a given number.
+
+8. **Classes and Objects**
+   Define a class `Rectangle` with attributes `length` and `width`. Implement methods to calculate the area and the perimeter of the rectangle.
+
+9. **Inheritance**
+   Extend the above `Rectangle` class to create a `Square` class.
+
+10. **Lists and Maps**
+    Write a program that counts the occurrence of each word in a string using a Map.
+
+11. **Exception Handling**
+    Write a program that demonstrates the use of try, catch, and finally statements. 
+
+12. **Working with Future**
+    Write a program that simulates an asynchronous operation using Dart's Future.
+
+13. **Reading and Writing to a File**
+    Write a program that writes some text to a file and then reads it back.
+
+14. **Sorting Algorithm**
+    Implement a basic sorting algorithm like Bubble Sort or Insertion Sort.
+
+15. **Basic GUI Application**
+    Try to create a basic GUI application using Flutter, which uses Dart as its primary programming language.
+
+Remember to run and test your code after writing each solution to ensure it works as expected. Happy coding!
